@@ -1,0 +1,6 @@
+pycryptodome
+websocket-client
+requests
+tls-client
+tinydb
+pysnooper
